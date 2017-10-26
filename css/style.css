@@ -1,0 +1,137 @@
+*{
+	font-family: open sans;
+	font-size: 18px;
+}
+
+.container {
+	display: inline-block;
+	float: bottom;
+	clear: bottom;
+}
+ul{
+	padding-bottom: 40px;
+	padding-left: 100px;
+}
+header {
+  height: 700px;
+  background-image: url("../images/header_bg.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding-top: 40px;
+}
+
+footer {
+	background-color: #121212;
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 24px;
+	padding-top: 80px;
+	font-weight: 800;
+}
+h2 {
+	font-weight: extra bold;
+	font-size: 24px;
+	color: #f9e42e;
+	padding-top: 50px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+h3 {
+	color: #ffffff;
+	font-size: 24px;
+	font-weight: 600;
+	text-align: center;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: 600;
+	padding-top: 60px;
+	padding-left: 100px;
+}
+
+li {
+	font-size: 13px;
+	font-weight: 300;
+}
+#name {
+	font-size: 18px
+	font-weight: 800;
+}
+#header {
+	text-align: center;
+}
+#primary {
+	background-color: #f9e42e; 
+    border: none;
+    border-radius: 5px;
+    color: #033048;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 800;
+    text-decoration: none; 
+}
+
+#quote {
+	font-size: 18px;
+	font-weight: 300;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 30px;
+	background-image: url("../images/testimonial_bg.jpg")
+}
+
+#signup {
+	background-color: #f9e42e;
+	text-align: center;
+
+}
+#secondary {
+	background-color: #033048;
+    border: none;
+    border-radius: 5px;
+    color: #f9e42e;
+    padding: 15px 32px;
+    margin-top: 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 800;
+    text-decoration: none; 
+}
+
+p {
+	font-size: 13px;
+	font-weight: 300;
+	text-align: center;
+}
+
+
+.socialmedia {
+display:inline-block;
+padding: 0;
+margin: 0 25px 50px;
+}
+
+.copyright {
+	color: #ffffff;
+	padding-top: 40px;
+	padding-bottom: 50px;
+	font-size: 9px;
+	font-weight: 600;
+}
+
+
+#benefits {
+	background-color: #f0efef;
+}
+
+footer ul li {
+  display: inline-block;
+  list-style: none;
+  margin: 0 26px 75px;
